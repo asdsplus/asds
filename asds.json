@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://plusweb.shop/appMainGetData.php",
+    "apiUrl": "https://plusweb.store/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.1.4",
         "updateTitle": "Yeni Güncelleme Var!",
