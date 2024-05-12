@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://plusweb.store/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.2.1",
+        "updateVersiyon": "1.2.3",
         "updateTitle": "Yeni Güncelleme Var!",
         "updateYenilik": "Şimdi Güncelleme Zamanı.....",
         "updateLink": "https://github.com/golgekontu/pro/raw/main/golge1-2-0.apk"
