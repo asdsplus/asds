@@ -1,0 +1,9 @@
+{
+    "apiUrl": "https://testpanel.plusweb.store/appMainGetData.php",
+    "updateConfig": {
+        "updateVersiyon": "1.2.6",
+        "updateTitle": "Şimdi Güncelleme Zamanı!",
+        "updateYenilik": "Anti Reklam engelleyici.....",
+        "updateLink": "https://github.com/golgekontu/pro/raw/main/golge1-2-6.apk"
+    }
+}
