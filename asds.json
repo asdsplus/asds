@@ -1,10 +1,10 @@
 {
     "apiUrl": "https://calacula.store/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.3",
+        "updateVersiyon": "1.4.4",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Paneller Kısmına Dezor yayınları eklendi.",
-        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.3.apk",
+        "updateYenilik": "Bazı cihazlarda Android system webview kaynaklı film dizi bölümünde video oynatmama sorunu çözüldü.",
+        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.4.apk",
         "websiteLink": "https://emegesaygiapk.blogspot.com",
         "telegramLink": "https://t.me/+V5eM0GZgGmlLsw-k"
        
