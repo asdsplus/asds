@@ -1,10 +1,10 @@
 {
     "apiUrl": "https://calacula.store/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.5",
+        "updateVersiyon": "1.4.6",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Bazı cihazlarda Android system webview kaynaklı film dizi bölümünde video oynatmama sorunu çözüldü.",
-        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-PLUS-1.4.5-Fix-2.apk",
+        "updateYenilik": "Canlı Maçlar 1 için optimizasyon yapıldı.",
+        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.6.apk",
         "websiteLink": "https://emegesaygiapk.blogspot.com",
         "telegramLink": "https://t.me/+V5eM0GZgGmlLsw-k"
        
